@@ -1,0 +1,2 @@
+# Blogazo
+Blog de Platzi
